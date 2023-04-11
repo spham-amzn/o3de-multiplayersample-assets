@@ -1,3 +1,4 @@
 [submodule "Gems/O3DEPopcornFXPlugin"]
 	path = Gems/O3DEPopcornFXPlugin
-	url = https://github.com/PopcornFX/O3DEPopcornFXPlugin
+	url = https://github.com/spham-amzn/O3DEPopcornFXPlugin.git
+	branch = spham_amzn/disable_pfx
